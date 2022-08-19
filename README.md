@@ -1,5 +1,5 @@
 ### Olá mundo!🌱
 
-Comecei na programação em 2020, e desde então estudo principalmente desenvolvimento web e mobile
+[![Minhas linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrandao1618&theme=tokyonight&layout=compact&locale=pt-br)](https://github.com/GabrielBrandao1618/github-readme-stats)
 
-Atualmente utilizo principalmente typescript e tecnologias relacionadas, porém tenho um interesse muito grande por rust e go
+![Minhas estatísticas do Github](https://github-readme-stats.vercel.app/api?username=GabrielBrandao1618&show_icons=true&theme=tokyonight&locale=pt-br)
