@@ -5,7 +5,6 @@
 * I code in Java, Typescript and Rust
 * I made my own markup language(ytml)
 * I like to do backend development
-* I know how to create websites using React.js + Next.js
 
 #### 🛠 Tech Stack
 
