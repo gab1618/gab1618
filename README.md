@@ -12,10 +12,9 @@
 * css, sass, tailwind css, styled-components, stitches
 * Express.js, NestJS
 * Rust
+* Docker/Docker-compose
 
 #### 🧪 Currently learning
 
-* Elixir
-* Docker/Docker-compose
 * Spring boot
 * Microservices
