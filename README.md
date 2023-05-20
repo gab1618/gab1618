@@ -2,7 +2,7 @@
 
 #### ✨A few fun facts about me:
 
-* I code in Java, Typescript and Rust
+* I code in Java, Golang, Typescript, Rust and a little bit of c and c++
 * I made my own markup language(ytml)
 * I like to do backend development
 
