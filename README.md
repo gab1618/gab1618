@@ -4,7 +4,7 @@
 
 * I code in Java, Golang, Typescript, Rust and a little bit of c and c++
 * I made my own markup language(ytml)
-* I like to do backend development
+* I like to do both backend and front-end web development
 
 #### 🛠 Tech Stack
 
@@ -13,6 +13,7 @@
 * Express.js, NestJS
 * Rust
 * Docker/Docker-compose
+* React-Native
 
 #### 🧪 Currently learning
 
