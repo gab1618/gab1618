@@ -19,3 +19,5 @@
 
 * Spring boot
 * Microservices
+* Svelte
+* Tauri
