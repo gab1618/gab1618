@@ -14,6 +14,7 @@
 * Rust
 * Docker/Docker-compose
 * React-Native
+* Tauri
 
 #### 🧪 Currently learning
 
