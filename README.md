@@ -15,8 +15,9 @@
 * Docker/Docker-compose
 * React-Native
 * Tauri
+* Vue.js
 
 #### 🧪 Currently learning
 
 * Spring boot
-* Microservices
+* Kubernetes
