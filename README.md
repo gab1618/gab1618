@@ -18,6 +18,7 @@
 * Tauri
 * Vue.js
 * Svelte
+* Angular
 
 #### 🧪 Currently learning
 
