@@ -11,7 +11,7 @@
 
 * React.js + Next.js
 * css, sass, tailwind css, styled-components, stitches
-* Express.js, NestJS
+* Express.js, NestJS, ElysiaJS
 * Rust
 * Docker/Docker-compose
 * React-Native
@@ -19,7 +19,9 @@
 * Vue.js
 * Svelte
 * Angular
+* Prisma ORM, Drizzle ORM
 
 #### 🧪 Currently learning
 
 * Kubernetes
+* Phoenix
