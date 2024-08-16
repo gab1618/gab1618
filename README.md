@@ -10,16 +10,13 @@
 
 #### 🛠 Tech Stack
 
-* React.js + Next.js
+* React.js + Next.js, Svelte, Angular, Vue.js
 * css, sass, tailwind css, styled-components, stitches
 * Express.js, NestJS, ElysiaJS
 * Rust
 * Docker/Docker-compose
 * React-Native
 * Tauri
-* Vue.js
-* Svelte
-* Angular
 * Prisma ORM, Drizzle ORM
 
 #### 🧪 Currently learning
