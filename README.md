@@ -5,7 +5,6 @@
 * I code in Java, Kotlin, Golang, Typescript, Rust, Python, C# and a little bit of c, c++ and Elixir
 * I made my own markup language(ytml)
 * I am creating my own programming language
-* I like both backend and front-end web development
 * I love to learn new things
 
 #### 🛠 Tech Stack
@@ -22,9 +21,7 @@
 #### 🧪 Currently learning
 
 * Kubernetes
-* Phoenix
+* AWS
+* Some other random thing I found interesting for some reason
 
-## Ah! And here are some stats(why not?)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrandao1618&layout=compact&langs_count=7&theme=radical)
-
-Damn what a mess😅
+Have fun looking at the mess I do in my free time!
