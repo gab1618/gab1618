@@ -13,7 +13,7 @@
 * css, sass, tailwind css, styled-components, stitches
 * Express.js, NestJS, ElysiaJS
 * Rust
-* Docker/Docker-compose
+* Docker/Docker-compose (containers in general, actually)
 * React-Native
 * Tauri
 * Prisma ORM, Drizzle ORM
@@ -22,6 +22,7 @@
 
 * Kubernetes
 * AWS
+* Haskell (y not?)
 * Some other random thing I found interesting for some reason
 
 Have fun looking at the mess I do in my free time!
